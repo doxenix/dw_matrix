@@ -1,2 +1,2 @@
-# dw_matrix
-Projekt transformacja - MATRIX
+# Projekt transformacja, czyli  MATRIX
+Day 1
